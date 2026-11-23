@@ -12,3 +12,10 @@ Repositorio de pruebas para aprender a utilizar Git, GitHub y Visual Studio Code
 ## Autor
 
 Xoán Fariña
+
+
+## Prueba de sincronización
+
+Este cambio se ha realizado desde mi portátil MSI con Windows 11.
+
+GitHub permite sincronizar mis proyectos entre el portátil y el PC de sobremesa.
