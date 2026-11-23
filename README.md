@@ -20,4 +20,8 @@ Este cambio se ha realizado desde mi portátil MSI con Windows 11.
 
 GitHub permite sincronizar mis proyectos entre el portátil y el PC de sobremesa.
 
-a
+## Prueba desde el PC de sobremesa
+
+Este cambio se ha realizado desde mi PC de sobremesa con Windows 11.
+
+Ahora puedo trabajar en mis proyectos desde ambos ordenadores.
