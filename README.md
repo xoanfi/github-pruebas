@@ -19,3 +19,5 @@ Xoán Fariña
 Este cambio se ha realizado desde mi portátil MSI con Windows 11.
 
 GitHub permite sincronizar mis proyectos entre el portátil y el PC de sobremesa.
+
+a
